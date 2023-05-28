@@ -16,4 +16,4 @@ REQUIREMENTS/CONSTRAINTS:
 
 The methods used in this notebook's analysis and in the data collection were based off of "A Century of Avian Community Turnover in an Urban Green Space in Northern California" (2012). 
 
-If you have any questions on how to run the notebook, you can email me at mmyen@berkeley.edu.
+If you have any questions on how to run the notebook, you can email me at *****@berkeley.edu.
